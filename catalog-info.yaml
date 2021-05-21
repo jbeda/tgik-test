@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: tgik-test
+  description: whatevs
+  annotations: 
+    github.com/project-slug: jbeda/tgik-test
+    backstage.io/source-ref: "https://github.com/jbeda/tgik-test"
+    backstage.io/techdocs-ref: url:https://github.com/jbeda/tgik-test
+    backstage.io/github-actions-id: https://github.com/jbeda/tgik-test
+spec:
+  type: service
+  lifecycle: experimental
+  owner: jbeda
