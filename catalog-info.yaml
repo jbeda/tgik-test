@@ -8,7 +8,7 @@ metadata:
     backstage.io/source-ref: "https://github.com/jbeda/tgik-test"
     backstage.io/techdocs-ref: url:https://github.com/jbeda/tgik-test
     backstage.io/github-actions-id: https://github.com/jbeda/tgik-test
-    backstage.io/kubernetes: foo
+    backstage.io/kubernetes-id: foo
 spec:
   type: service
   lifecycle: experimental
